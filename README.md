@@ -1,6 +1,13 @@
-💻 Tech Enthusiast | 🌐 Web Developer | 📱 Flutter Developer
 
-🚀 Currently working on Connect | 🏆 Winner of Hackomania 2k23
+💻 Tech Enthusiast 
+
+🌐 Web Developer 
+
+📱 Flutter Developer
+
+🚀 Currently working on Connect 
+
+🏆 Winner of Hackomania 2k23
 
 Passionate about creating innovative solutions and turning ideas into reality through code. Let's build something amazing together!
 
