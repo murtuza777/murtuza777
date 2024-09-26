@@ -5,7 +5,7 @@
 
 📱 Flutter Developer
 
-🚀 Currently working on Connect 
+🚀 Currently working on Connekt 
 
 🏆 Winner of Hackomania 2k23
 
