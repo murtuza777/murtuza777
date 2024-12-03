@@ -7,7 +7,7 @@
 
 🚀 Currently working on Connekt 
 
-🏆 Winner of Hackomania 2k23
+🏆 2x Hackathon Winner
 
 Passionate about creating innovative solutions and turning ideas into reality through code. Let's build something amazing together!
 
