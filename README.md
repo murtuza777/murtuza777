@@ -5,7 +5,7 @@
 
 📱 Flutter Developer
 
-🚀 Currently working on Connekt 
+🚀 Currently working on Mindalike
 
 🏆 2x Hackathon Winner
 
