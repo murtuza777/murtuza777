@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Md Murtuza Ali</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">, I'm Md Murtuza Ali</h1>
 <h3 align="center">I am just a learner,Who is so Curious about Technology..</h3>
 
 <div>
