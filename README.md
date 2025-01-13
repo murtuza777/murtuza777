@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Md Murtuza Ali</h1>
 <h3 align="center">I am just a learner,Who is so Curious about Technology..</h3>
 
+<div>
+<img src="https://github.com/raghavk16/raghavk16/blob/master/octo.gif" alt="GitHub Logo" width="150" height="150" />
+</div>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=murtuza777&label=Profile%20views&color=0e75b6&style=flat" alt="murtuza777" /> </p>
 
 - 💻 **Tech Enthusiast** 
@@ -17,12 +21,7 @@
 
 - 💬 Ask me about **Emerging Technologies**
 
-<div>
-<img src="https://github.com/raghavk16/raghavk16/blob/master/octo.gif" alt="GitHub Logo" width="150" height="150" />
-</div>
-
 Passionate about **creating innovative solutions** and turning **ideas into reality** through code. Let's **connect** build something amazing together!
-
 
 - 📫 How to reach me **mdmurtuzaali777@gmail.com**
 
