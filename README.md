@@ -17,6 +17,10 @@
 
 - 💬 Ask me about **Emerging Technologies**
 
+<div>
+<img src="https://github.com/raghavk16/raghavk16/blob/master/octo.gif" alt="GitHub Logo" width="150" height="150" />
+</div>
+
 Passionate about **creating innovative solutions** and turning **ideas into reality** through code. Let's **connect** build something amazing together!
 
 
