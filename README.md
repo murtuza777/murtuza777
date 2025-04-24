@@ -12,9 +12,9 @@
 
 - 💻 **Tech Enthusiast** 
 
-- 🌐 **Web Developer** 
+- 🌐 **Software Developer**
 
-- 📱 **Flutter Developer**
+- 🤝 **Open Source Contributor**
 
 - 🏆 **2x Hackathon Winner**
 
