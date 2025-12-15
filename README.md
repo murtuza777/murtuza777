@@ -20,7 +20,7 @@
 
 - 🔭 I’m currently working on **Mindalike**
 
-- 🌱 I’m currently learning **AI and ai agents**
+- 🌱 I’m currently learning **agentic ai**
 
 - 💬 Ask me about **Emerging Technologies**
 
