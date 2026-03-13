@@ -16,7 +16,7 @@
 
 - 🤝 **Open Source Contributor**
 
-- 🏆 **2x Hackathon Winner**
+- 🏆 **3x Hackathon Winner**
 
 - 🔭 I’m currently working on **Mindalike**
 
