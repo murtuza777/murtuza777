@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">, I'm Md Murtuza Ali</h1>
-<h3 align="center">I am just a learner,Who is so Curious about Technology..</h3>
+<h3 align="center">I am a builder, who likes to build tech projects..</h3>
 
 <div>
 <img src="https://github.com/raghavk16/raghavk16/blob/master/octo.gif" alt="GitHub Logo" width="150" height="150" />
@@ -9,8 +9,6 @@
 
 <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt = 'Awesome Matrix Code' align='right'/>
 
-
-- 💻 **Tech Enthusiast** 
 
 - 🌐 **Software Developer**
 
